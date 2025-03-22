@@ -74,7 +74,7 @@ Full Stack Developer with extensive experience in designing, developing, and dep
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sreejiths&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreejiths&layout=compact&hide_border=true&theme=tokyonight" alt="GitHub Stats"  />
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreejiths&layout=compact&hide_border=true&theme=tokyonight" alt="GitHub Stats"  /> -->
 </div>
 
 ---
