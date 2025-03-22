@@ -17,12 +17,14 @@ Full Stack Developer with extensive experience in designing, developing, and dep
 <div align="center">
 
 ### Backend Development
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ### Frontend Development
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,30 +32,54 @@ Full Stack Developer with extensive experience in designing, developing, and dep
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Payment Integration & Communication
+
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-FF5C00?style=for-the-badge&logo=twilio&logoColor=white)
 ![Agora](https://img.shields.io/badge/Agora-FFFFFF?style=for-the-badge&logo=agora&logoColor=black)
 
 ### Other Tools & Technologies
+
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
+- **Development Areas**: API integration, Database management, Security best practices
+
+---
+
 ## 📊 GitHub Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sreejiths&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APJishnu&layout=compact&hide_border=true&theme=radical" />
 </div>
 
 ---
+
+## 📫 Let's Connect!
+
+Feel free to reach out for collaborations, ideas, or just to say hello! 😊
+
+---
+
+### 🔥 Fun Facts
+
+- 🚀 Passionate about creating smooth, high-performance web apps with engaging animations and visuals.
+- 🎓 Constantly learning and diving into new tech to enhance my development skill set.
+- 💻 Coding at the intersection of functionality and visual design.
+
+---
+
+⭐️ **Let's build something amazing together!**
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sreejiths&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
