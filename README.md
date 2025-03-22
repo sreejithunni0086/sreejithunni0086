@@ -60,10 +60,10 @@ Full Stack Developer with extensive experience in designing, developing, and dep
   
   ### Let's Connect
   
-  <a href="mailto:sreejiths@example.com">
+  <a href="mailto:ssreejith6151@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/sreejiths">
+  <a href="https://www.linkedin.com/in/sreejith-s-b00b3387/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
